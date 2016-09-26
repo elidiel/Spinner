@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="Escolha">escolha_uma_op_o</string>
+
+    <string name="Desfazer"> Desfazer</string>
+    <string name="Cancelar"> Cancelar</string>
+    <string name="escolha_uma_op_o"> escolha_uma_op_o</string>
+</resources>
